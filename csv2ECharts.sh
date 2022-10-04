@@ -74,7 +74,7 @@ END{
     print "    <div id=\"main\" style=\"width: 100%;height:800px;\"></div>"
     print "    <script type=\"text/javascript\">"
     print "      // 基于准备好的dom，初始化echarts实例"
-    print "      var myChart = echarts.init(document.getElementById(\"main\"));"
+    print "      var myChart = echarts.init(document.getElementById(\"main\"),\"dark\" );"
 
 
     print "var option={ "
@@ -124,7 +124,7 @@ END{
 
     print "}"  #option end
 
-    print "  myChart.setOption(option);"
+    print "  myChart.setOption(option,\"dark\" );"
     print " </script>"
     print "</body>"
     print "</html>"
