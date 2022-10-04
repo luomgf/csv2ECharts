@@ -15,6 +15,12 @@
 
 
 
+- [gitee项目地址](https://gitee.com/luomg/csv2ECharts.git):https://gitee.com/luomg/csv2ECharts.git
+
+- [github项目地址](https://github.com/luomgf/csv2ECharts.git):https://github.com/luomgf/csv2ECharts.git
+
+
+
 # 使用
 
 ## 命令
